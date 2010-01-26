@@ -52,9 +52,9 @@ function mark_em_player(user) {
         if (document.links[a].href.match(member_pattern)) {
             if (document.links[a].href.replace("http://forums.heroesofnewerth.com/member.php?u=", "") == user) {
                 if (document.links[a].text != 'View Public Profile') {
-                    document.links[a].style.background = "url('http://forums.heroesofnewerth.com/images/buttons/redcard.gif') no-repeat";
-                    document.links[a].style.padding = "0 0 0 20px";
-                    document.links[a].style.color = "red";
+                    document.links[a].style.background = "url('http://www.heroesofnewerth.com/images/gameoption_em.gif') no-repeat";
+                    document.links[a].style.padding = "0 0 10px 35px";
+                    document.links[a].style.color = "#FF83FA";
                     document.links[a].title = 'This person is predicted to be an EM player';
                 }
             }
