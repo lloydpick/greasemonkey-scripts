@@ -1,0 +1,9 @@
+Just a Greasemonkey script to clean up some styling issues I have with Google Analytics.
+
+* Removed help left menu
+* Removed header above each site entry
+* Made main content table 100% width
+
+To install simple click the link below when Greasemonkey is installed:
+
+http://github.com/lloydpick/greasemonkey-scripts/raw/master/google-analytics-cleanup/google_analytics_cleanup.user.js
