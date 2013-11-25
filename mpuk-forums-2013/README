@@ -1,0 +1,11 @@
+Just a Greasemonkey script to change styles on the MPUK forums.
+
+* Hidden right menu
+* Hidden header
+* Hidden news
+* Hidden background
+* Made main content full width
+
+To install simple click the link below when Greasemonkey is installed:
+
+http://github.com/lloydpick/greasemonkey-scripts/raw/master/mpuk-forums-2013/mpuk_forums_2013.user.js
